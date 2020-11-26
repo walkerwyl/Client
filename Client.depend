@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1606379142 source:/home/wang/Papers/Client/ClientApp.cpp
+	"wx_pch.h"
+	"ClientApp.h"
+	"ClientMain.h"
+
+1606375447 /home/wang/Papers/Client/ClientApp.h
+	<wx-3.1/wx/app.h>
+
+1606374230 /home/wang/Papers/Client/ClientMain.h
+	"ClientApp.h"
+	"GUIFrame.h"
+
+1606375439 /home/wang/Papers/Client/GUIFrame.h
+	<wx_pch.h>
+	<wx-3.1/wx/wx.h>
+	<wx-3.1/wx/menu.h>
+
+1606374230 source:/home/wang/Papers/Client/ClientMain.cpp
+	"wx_pch.h"
+	"ClientMain.h"
+
+1606375445 source:/home/wang/Papers/Client/GUIFrame.cpp
+	"wx-3.1/wx/wxprec.h"
+	<wx-3.1/wx/wx.h>
+	"GUIFrame.h"
+
